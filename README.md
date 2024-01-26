@@ -4,7 +4,7 @@ I bring over 1 year of hands-on experience as a DevOps Engineer passionate about
 
 ## 🔧 Technologies & Tools
 
-AWS Ansible Terraform Docker Jenkins Linux Bash Automation CI/CD
+AWS | Ansible | Terraform | Docker | Jenkins | Linux | Bash | Automation | CI/CD
 
 ### Operating System (OS)
 
