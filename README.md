@@ -4,8 +4,6 @@ I bring over 1 year of hands-on experience as a DevOps Engineer passionate about
 
 ## 🔧 Technologies & Tools
 
-![AWS](images/aws.png) ![Ansible](images/ansible.png) ![Terraform](images/terraform.png) ![Docker](images/docker.png) ![Jenkins](images/jenkins.png) ![Linux](images/linux.png) ![Bash](images/bash.png) ![Automation](images/automation.png) ![CI/CD](images/cicd.png)
-
 ### Operating System (OS)
 
 <p align="left"> <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/> 
