@@ -6,6 +6,10 @@ I bring over 1 year of hands-on experience as a DevOps Engineer passionate about
 
 AWS | Ansible | Terraform | Docker | Jenkins | Linux | Bash | Automation | CI/CD
 
+
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 ### Operating System (OS)
 
 <p align="left"> <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/> 
