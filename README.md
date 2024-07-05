@@ -1,6 +1,6 @@
 # Hi there, I'm Atul Yadav! 👋
 
-I bring over 1 year of hands-on experience as a DevOps Engineer passionate about automating and streamlining processes. With expertise in AWS, Ansible, Terraform, Docker, Jenkins, Linux, AWS DevOps, and Bash scripting, I strive to improve efficiency and enhance development workflows.
+I bring over 2+ year of hands-on experience as a DevOps Engineer passionate about automating and streamlining processes. With expertise in AWS, Ansible, Terraform, Docker, Jenkins, Linux, AWS DevOps, and Bash scripting, I strive to improve efficiency and enhance development workflows.
 
 ## 🔧 Technologies & Tools
 
