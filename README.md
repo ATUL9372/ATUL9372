@@ -63,7 +63,8 @@ Always looking for opportunities to learn and explore new technologies and metho
 
 ## 📫 Let's connect!
 
-[![LinkedIn](images/linkedin.png)](www.linkedin.com/in/atulyadav9372)
+[![LinkedIn](![image](https://github.com/user-attachments/assets/83b04230-8f5b-49e7-82ad-a50c7c95020f)
+)](https://www.linkedin.com/in/atulyadav9372/))
 [![GitHub](images/github.png)](https://github.com/atul9372)
 
 Feel free to reach out for collaboration or networking!
